@@ -8,8 +8,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Hit-Paw?label=Follow&style=social)](https://github.com/Hit-Paw)
 [![GitHub stars](https://img.shields.io/github/stars/Hit-Paw/HitPaw-MangaDex-Manager?style=social)](https://github.com/Hit-Paw/HitPaw-MangaDex-Manager)
-[![Discord](https://img.shields.io/discord/123456789?label=Discord&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/VxQk8VjV)
-
 <br>
 
 *"No cloud. No tracking. No ads. Just your library, your way."*
@@ -69,8 +67,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hit-Paw&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=ff6a00&icon_color=ff6a00&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hit-Paw&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=ff6a00&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hit-Paw&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=ff6a00&icon_color=ff6a00&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hit-Paw&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=ff6a00&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
