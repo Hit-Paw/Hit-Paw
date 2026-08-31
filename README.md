@@ -65,16 +65,6 @@
 
 ---
 
-### &#x1f4ca; GitHub Stats
-
-<div align="center">
-
-![Hit-Paw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hit-Paw&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=ff6a00&icon_color=ff6a00&text_color=c9d1d9&include_all_commits=true&count_private=true)
-
-</div>
-
----
-
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=Hit-Paw&color=ff6a00&style=flat-square&label=Profile+Views)
